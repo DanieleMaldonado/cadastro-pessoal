@@ -22,12 +22,6 @@ Um simples formulário de cadastro pessoal do Itaú
 
 ### Descrição
 
-Daniele, escreve uma descricao biografica completa. Experiencias academicas e profissionais, sonhos, inspiracoes e hobbies. 
-
-Leia minha biografia e entenderas como tu faras uma biografia. OK. Faço agora?
-
-Sim
-
 Formada em Administração de Empresas e pós-raduada em Controladoria e Auditoria. 
 
 Iniciei a minha carreira no Banco Itaú em agências com atendimento no caixa até o cargo de Gerente Operacional, onde pude ganhar desenvolver habilidades de gestão, riscos, liderança e centralidade do cliente.
@@ -36,7 +30,7 @@ Após atuação em projetos direcionados à Nova Plataforma de Caixa, tive a opo
 
 ### Objetivo:
 
-Desenvolver um cadastro pessoal num *site* pequeno e acessível, com campos do formulários, além de validações e expressões regulares.
+Desenvolver um cadastro pessoal num *site* pequeno, com campos do formulários, além de validações e expressões regulares.
 
 ### Ferramenta:
 
