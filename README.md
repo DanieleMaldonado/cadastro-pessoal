@@ -5,7 +5,7 @@
 Um simples formulário de cadastro pessoal do Itaú
 
 <p style="text-align: center">
- <img alt="Foto de Daniele Maldonado" src="assets/images/me.jpg" height="164px" />
+ <img alt="Foto de Daniele Maldonado" src="assets/images/me.png" height="164px" />
 </p>
 
 <p style="text-align: center">
