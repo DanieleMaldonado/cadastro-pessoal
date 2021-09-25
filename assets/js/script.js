@@ -1,7 +1,7 @@
 
 console.log ('Javascript carregado');
 
-//Validação do CPF;
+// Validação do CPF;
 
 function validacao() {
     
@@ -40,9 +40,7 @@ function validacao() {
     }
 }
 
-
-
-//Máscara de Telefone
+// Máscara de Telefone
 
 function mascaraFixo() {
     if (fixo.value.length == 0)
@@ -62,7 +60,7 @@ function mascaraCelular() {
         celular.value = celular.value + '-';
 }
 
-//Alerta de submissão de dados
+// Alerta de submissão de dados
 
 function enviar() {
     var r = confirm("Confirma o envio do formulário?");
