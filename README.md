@@ -112,6 +112,8 @@ Executamos uma primeira função (function) chamada validacao(), que foi executa
 A primeira validação realizada é checar se o número digitado é menor que 11.
 Na sequência verificamos se o número do CPF está válido. Se checarmos se é valido, já é valido sem avisar, senão avisamos que é inválido e necessita preencher novamente.
 
+Também executamos 2 funções para validação do formato na digitação do telefone fixo e telefone celular, para visualização no formato (00) 0000-0000 para fix e (00) 00000-0000 para celular.
+
 #### CSS
 
 Iniciamos com o seletor *, *::before e *::after que captura inteiramente o site para definir a propriedade box-sizing com um valor border-box, para que preenchimento e borda estejam incluídos na largura e altura de todo o site.
