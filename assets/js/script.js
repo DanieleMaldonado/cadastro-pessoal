@@ -55,7 +55,7 @@ function mascaraCelular() {
     if (celular.value.length == 0)
         celular.value = '(' + celular.value;
     if (celular.value.length == 3)
-        celular.value = celular.value + ') ';
+        celular.value = celular.value + ')';
     if (celular.value.length == 10)
         celular.value = celular.value + '-';
 }

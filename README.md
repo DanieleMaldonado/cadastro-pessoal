@@ -24,7 +24,7 @@ Um simples formulário de cadastro pessoal do Itaú
 
 Formada em Administração de Empresas e pós-raduada em Controladoria e Auditoria. 
 
-Iniciei a minha carreira no Banco Itaú em agências com atendimento no caixa até o cargo de Gerente Operacional, onde pude ganhar desenvolver habilidades de gestão, riscos, liderança e centralidade do cliente.
+Iniciei a minha carreira no Banco Itaú em agências com atendimento no caixa até o cargo de Gerente Operacional, onde pude desenvolver habilidades de gestão, riscos, liderança e centralidade do cliente.
 
 Após atuação em projetos direcionados à Nova Plataforma de Caixa, tive a oportunidade de direcionar a minha carreira para a Administração Central, atuando com projetos e melhoria de processos. Atualmente desenvolvendo o papel de PO (*Product Onwer*) em projetos na área de operações finanças.
 
@@ -46,7 +46,7 @@ Visual Studio Code no Windows 10.
 
 ### Descrição do site
 
-O site apresenta um formulário simples de cadastro de dados pessoais, onde os campos Nome Completo, CPF, Endereço, Número e Telefone Celular são obrigatórios. O campo deverá aparecer uma mensagem de CPV inválido, caso o número for inferior a 11 ou não confere com o algoritmo.
+O site apresenta um formulário simples de cadastro de dados pessoais, onde os campos Nome Completo, CPF, Endereço, Número e Telefone Celular são obrigatórios. O campo deverá aparecer uma mensagem de CPV inválido, caso o número for inferior a 11 dígitos.
 
 Ao clicar no botão concluir, apresentará um alerta "confirma o envio do formulário?".
 
@@ -129,8 +129,8 @@ Para input e select, foram definidos as cores e tamanhos. Para ajustá-los na me
 
 ### Referências
 
-- [Expressão regular de telefone celular e fixo](https://gist.github.com/reggiegutter/5516382): Uma expressão regular completa de ambos os telefones celulares e fixo. 
-- [Expressão regular de CPF/CNPJ](https://pt.stackoverflow.com/questions/133691/formatar-campo-cpf-ou-cnpj-usando-regex): Uma expressão regular completa e válida de ambos CPF e CNPJ.
+- [Máscara de telefone celular e fixo](https://github.com/queirozlb/gama-academy/blob/master/script.js): Máscara de ambos os telefones celulares e fixo. 
+- [Validação de CPF](https://github.com/queirozlb/gama-academy/blob/master/script.js): Vaçidação de CPF.
 
 ### Licença
 
