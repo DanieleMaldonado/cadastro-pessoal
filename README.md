@@ -52,46 +52,46 @@ Ao clicar no botão concluir, apresentará um alerta "confirma o envio do formul
 
 #### HTML
 
-No ínício, começa com <!DOCTYPE HTML>, uma declaração para avisar aos navegadores que é um documento HTML, e dentro, tem <html> representa a raiz de um documento HTML e contém um atributo "lang" para declarar o idioma da página da web a fim de ajudar os mecanismos de busca e os navegadores.
+No ínício, começa com !DOCTYPE HTML, uma declaração para avisar aos navegadores que é um documento HTML, e dentro, tem *html* representa a raiz de um documento HTML e contém um atributo "lang" para declarar o idioma da página da web a fim de ajudar os mecanismos de busca e os navegadores.
 
-Dentro desse elemento, tem um elemento <head> designado para informar os metadados e buscar os recursos. Está entre <html> e <body>.
+Dentro desse elemento, tem um elemento *head* designado para informar os metadados e buscar os recursos. Está entre *html* e *body*.
 
 Metadados
 
-<meta charset="UTF-8">: É um elemento de metadado para a codificação e a renderização de caracteres para o documento HTML
+*meta charset="UTF-8"*: É um elemento de metadado para a codificação e a renderização de caracteres para o documento HTML
 
-<meta http-equiv="X-UA-Compatible" content="IE=edge">: É um elemento de metadado de fornecimento de HTTP para o conteúdo do navegador
+*meta http-equiv="X-UA-Compatible" content="IE=edge"*: É um elemento de metadado de fornecimento de HTTP para o conteúdo do navegador
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">: É um elemento de metadado para renderizar a compatiblidade de visualizacão da página com todos os dispositivos
+*meta name="viewport" content="width=device-width, initial-scale=1.0"*: É um elemento de metadado para renderizar a compatiblidade de visualizacão da página com todos os dispositivos
 
-O <link> é um elemento que conecta os recursos externos aos documentos atuais para renderizar as coisas. Em seguida, os atributos:
+O *link* é um elemento que conecta os recursos externos aos documentos atuais para renderizar as coisas. Em seguida, os atributos:
 
 O atributo "rel" é um relacionamento de tipo de arquivo;
 O atributo "href" é um endereço do recurso externo
 
-<title>Cadastro Pessoal - Projeto Itaú </title>: O <title> é um elemento que renderiza o título para a aba do navegador
+*title* Cadastro Pessoal - Projeto Itaú : é um elemento que renderiza o título para a aba do navegador
 
 Corpo
 
-O elemento <body> renderiza todo o corpo de um documento.
+O elemento *body* renderiza todo o corpo de um documento.
 
 No corpo, vocês encontram os elementos, que são divisões ou uma seções num documento HTML. O atributo "class" é um nome de classe para um elemento para pegar os seletores de um arquivo CSS.
 Além disso, numa divisão, temos:
 
-<h1> é um cabeçalho de primeiro grau.
-<p> é uma definição de parágrafos.
+<*h1*> é um cabeçalho de primeiro grau.
+<*p*> é uma definição de parágrafos.
 
 Formulário
 
-O <form> é um elemento de criação de formulário usado para onde o usuário possa preencher os campos. Nele, tem um atributo "onsumbit" é um evento de submissão em JavaScript que executa a função. Dentro do formulário, definimos as classes grupo-de-caixa para agrupar o rótulo e o campo para uma mesma linha e expandir a largura do campo até à largura da classe "descricao".
+O *form* é um elemento de criação de formulário usado para onde o usuário possa preencher os campos. Nele, tem um atributo "onsumbit" é um evento de submissão em JavaScript que executa a função. Dentro do formulário, definimos as classes grupo-de-caixa para agrupar o rótulo e o campo para uma mesma linha e expandir a largura do campo até à largura da classe "descricao".
 
 Nele, temos:
 
 -Rótulos
-O <label> é um elemento que rotula a informação.
+O *label* é um elemento que rotula a informação.
 
 -Campos de entrada
-O <input> é um elemento de campo de entrada para o usuário escrever o valor e preenchê-lo.
+O *input* é um elemento de campo de entrada para o usuário escrever o valor e preenchê-lo.
 O atributo "id" é uma vinculação do campo ao rótulo.
 O atributo "required" significa que o campo não pode ser vazio.
 O atributo "maxlength" define o limite de caracteres.
@@ -99,11 +99,11 @@ O atributo "placeholder" é um valor da dica ou do exemplo.
 O atributo "pattern" é um método de expressão regular.
 
 Fim
-O comando <button type="submit" class="botao" onclick="enviar()">Concluir</button> é um botão de submissão com um valor para renderizar
+O comando *button type="submit" class="botao" onclick="enviar()">Concluir</button* é um botão de submissão com um valor para renderizar
 
 Temos um script interno que é um elemento para executar JavaScript interno:
 
-<script type="text/javascript" src="assets/js/script.js"></script>
+*script type="text/javascript" src="assets/js/script.js"></script*
 
 #### Javascript
 
